@@ -1,0 +1,4 @@
+Effect	DFn	DFd	F	p	p<.05	ges
+Targeting	6	33266	346.109	0	*	0.059
+deltaMomDad	1	33266	842.44	6.14e-183	*	0.025
+Targeting:deltaMomDad	6	33266	34.288	1.55e-41	*	0.006

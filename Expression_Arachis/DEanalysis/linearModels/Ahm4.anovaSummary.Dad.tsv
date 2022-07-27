@@ -1,0 +1,8 @@
+Effect	DFn	DFd	F	p	p<.05	ges
+Targeting	6	39232	13.708	1.27e-15	*	0.002
+dipMom	1	39232	1371.682	3.73e-295	*	0.034
+dipDad	1	39232	10481.248	0	*	0.211
+Targeting:dipMom	6	39232	5.425	1.29e-05	*	0.000829
+Targeting:dipDad	6	39232	17.057	8.67e-20	*	0.003
+dipMom:dipDad	1	39232	550.177	7.84e-121	*	0.014
+Targeting:dipMom:dipDad	6	39232	8.391	4.06e-09	*	0.001

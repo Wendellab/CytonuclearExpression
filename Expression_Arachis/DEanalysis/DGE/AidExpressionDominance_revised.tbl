@@ -1,0 +1,11 @@
+category	category01	category12	category02	category11	category04	category09	category03	category07	category10	category05	category08	category06	all_equal
+all	1	NA	1506	972	31	13	1	52	21	6	59	7	4896
+Not-organelle-targeted	0	NA	1238	788	29	12	1	32	12	4	46	6	4214
+Dual-targeted_Interacting	0	NA	5	6	0	0	0	1	1	0	0	0	22
+Dual-targeted_Non-interacting	0	NA	121	82	0	0	0	11	6	0	5	1	295
+Mitochondria-targeted_Interacting	0	NA	17	22	0	0	0	2	1	0	0	0	63
+Mitochondria-targeted_Non-interacting	0	NA	15	13	0	1	0	0	0	1	0	0	37
+Plastid-targeted_Interacting	0	NA	17	21	0	0	0	1	0	0	0	0	64
+Plastid-targeted_Non-interacting	1	NA	61	40	0	0	0	5	1	1	5	0	157
+cp	0	NA	23	0	0	0	0	0	0	0	0	0	33
+mt	0	NA	9	0	2	0	0	0	0	0	3	0	11

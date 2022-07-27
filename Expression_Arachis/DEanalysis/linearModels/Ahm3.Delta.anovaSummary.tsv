@@ -1,0 +1,4 @@
+Effect	DFn	DFd	F	p	p<.05	ges
+Targeting	6	39246	4.5	0.000145	*	0.000688
+dipDelta	1	39246	4928.619	0	*	0.112
+Targeting:dipDelta	6	39246	24.281	7.17e-29	*	0.004

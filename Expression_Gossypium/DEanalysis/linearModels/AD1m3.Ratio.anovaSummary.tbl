@@ -1,0 +1,4 @@
+Effect	DFn	DFd	F	p	p<.05	ges
+Targeting	5	88008	1.461	0.199		8.3e-05
+dipRatio	1	88008	0.000934	0.976		1.06e-08
+Targeting:dipRatio	5	88008	6.113	1.14e-05	*	0.000347

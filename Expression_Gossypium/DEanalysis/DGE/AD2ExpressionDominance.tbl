@@ -1,0 +1,11 @@
+category	category01	category12	category02	category11	category04	category09	category03	category07	category10	category05	category06	category08	all_equal
+all	569	630	1600	1177	1891	1520	186	672	156	232	233	891	6013
+Dual-targeted_Interacting	0	2	6	6	8	1	0	1	0	3	1	3	28
+Dual-targeted_Non-interacting	24	38	93	63	134	60	14	29	9	12	13	58	364
+Mitochondria-targeted_Interacting	9	4	38	8	34	13	0	7	1	7	4	25	116
+Mitochondria-targeted_Non-interacting	3	4	21	5	16	7	1	5	0	4	1	8	31
+Not-organelle-targeted	516	554	1380	1041	1563	1398	166	596	137	200	199	742	5128
+Plastid-targeted_Interacting	0	7	18	3	41	7	0	4	1	0	4	9	99
+Plastid-targeted_Non-interacting	17	19	44	40	75	34	4	21	5	6	11	46	206
+cp	0	1	0	5	19	0	0	0	0	0	0	0	35
+mt	0	1	0	6	1	0	1	9	3	0	0	0	6

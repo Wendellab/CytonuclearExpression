@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#SBATCH --nodes=1 
+#SBATCH --cpus-per-task=70 
+#SBATCH --mem=200G 
+#SBATCH --time=7-02:30:00
+#SBATCH --output=job.indexGenome.%A_%a.out 
+#SBATCH --error=job.indexGenome.%A_%a.err
+#SBATCH -J "indexGenome" 
+#SBATCH --mail-type=FAIL,END
+#SBATCH --mail-user=corrinne@iastate.edu 
+
+DIR=/work/LAS/jfw-lab/corrinne/Cytonuclear/arabidopsis/prepareSource
+target=arabidopsisref.fa
+
+./kallisto index -i ${target%%.*}.idx $DIR/$target

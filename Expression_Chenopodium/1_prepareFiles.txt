@@ -1,0 +1,28 @@
+#CDS file:
+#Original Filename: Cquinoa_pb_chicago-2-final_PBJELLY_pilon.cds_frame-fixed
+#	New Filename: Cquinoa.cds.primary
+#	
+#Chloroplast and mitochondrial sequences are from (Maughan et al. 2019)
+#	cp_MK159176
+#	mt_MK182703
+	
+	
+
+cd prepareSource
+
+# chloroplast and mitochondria genomes were downloaded from GenBank 
+# NCBI accession numbers are given in the original file names
+# gene content in each was modified by Dan Sloan
+# file names are now chenopodium.chloroplast.cds.20210428, chenopodium.mitochondrial.cds.20210428
+
+# make repeatmasker database
+
+cat chenopodium.chloroplast.cds.20210428.fa chenopodium.mitochondrial.cds.20210428.fa MK159176cp.fa MK182703mt.fa > chenopodium_organelles.fa
+
+# get transcripts and make reference
+	
+sed -e 's/lcl|MK159176.1_cds_/cp_/g' -e 's/[.][0-9].*\[gene=/_/g' -e 's/\].*//g' cp_MK159176.fa > chloroplast.transcripts.fa
+
+sed -e 's/lcl|MK182703.1_cds_/mt_/g' -e 's/[.][0-9].*\[gene=/_/g' -e 's/\].*//g' mt_MK182703.fa > mitochondrial.transcripts.fa
+
+cat Cquinoa.cds.primary.fasta chloroplast.transcripts.fa mitochondrial.transcripts.fa > Cqref.fa

@@ -1,0 +1,28 @@
+#!/bin/bash
+
+#SBATCH --job-name=array
+#SBATCH --array=1-20
+#SBATCH --nodes=1 
+#SBATCH --cpus-per-task=70 
+#SBATCH --mem=200G 
+#SBATCH --time=2-02:30:00
+#SBATCH --output=job.cotton.%A_%a.out 
+#SBATCH --error=job.cotton.%A_%a.err
+#SBATCH -J "cotton-diploid-array" 
+#SBATCH --mail-type=FAIL
+#SBATCH --mail-user=corrinne@iastate.edu 
+
+
+rDir=/work/LAS/jfw-lab/corrinne/Cytonuclear/reads/cotton
+genome=cottonref.idx
+thr=70
+
+file1=$(ls -1 $rDir/*.R1.fq.gz | sed -n ${SLURM_ARRAY_TASK_ID}p)
+file2=$(ls -1 $rDir/*.R2.fq.gz | sed -n ${SLURM_ARRAY_TASK_ID}p)
+
+name=$(basename $file1 .R1.fq.gz)
+
+mkdir mapping
+cd /work/LAS/jfw-lab/corrinne/Cytonuclear/cotton/mapping
+
+./../kallisto quant -t $thr -i ../$genome -o $name $file1 $file2

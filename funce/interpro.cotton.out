@@ -1,0 +1,680 @@
+<interpro id="IPR000095" protein_count="24918" short_name="CRIB_dom" type="Domain">
+  <name>CRIB domain</name>
+    
+
+    <p>
+       Many putative downstream effectors of the small GTPases Cdc42 and Rac contain a GTPase binding domain (GBD), also called p21 binding domain (PBD), which has been shown to specifically bind the GTP bound form of Cdc42 or Rac, with a preference for Cdc42 [
+      , 
+      ]. The most conserved region of GBD/PBD domains is the N-terminal Cdc42/Rac interactive binding motif (CRIB), which consists of about 16 amino acids with the consensus sequence I-S-x-P-x(2,4)-F-x-H-x(2)-H-V-G [
+<interpro id="IPR000198" protein_count="93543" short_name="RhoGAP_dom" type="Domain">
+  <name>Rho GTPase-activating protein domain</name>
+    <p>
+      Members of the Rho family of small G proteins transduce signals from plasma-membrane
+receptors and control cell adhesion, motility and shape by actin cytoskeleton formation.
+Like all other GTPases, Rho proteins act as molecular switches, with an active
+GTP-bound form and an inactive GDP-bound form. The active conformation is promoted by
+guanine-nucleotide exchange factors, and the inactive state by GTPase-activating proteins
+<interpro id="IPR000330" protein_count="154416" short_name="SNF2_N" type="Domain">
+  <name>SNF2, N-terminal</name>
+    <p>
+      This domain is found in proteins involved in a variety of processes including transcription regulation (e.g., SNF2, STH1, brahma, MOT1), DNA repair (e.g., ERCC6, RAD16, RAD5), DNA recombination (e.g., RAD54), and chromatin unwinding (e.g., ISWI) as well as a variety of other proteins with little functional information (e.g., lodestar, ETL1) [
+      , 
+      , 
+      ]. SNF2 functions as the ATPase component of the SNF2/SWI multisubunit complex, which utilises energy derived from ATP hydrolysis to disrupt histone-DNA interactions, resulting in the increased accessibility of DNA to transcription factors [
+      ].
+<interpro id="IPR000629" protein_count="163561" short_name="RNA-helicase_DEAD-box_CS" type="Conserved_site">
+  <name>ATP-dependent RNA helicase DEAD-box, conserved site</name>
+    <p>
+      A number of eukaryotic and prokaryotic proteins involved in ATP-dependent, nucleic-acid unwinding have been characterised [
+      , 
+      , 
+      ] on the basis of their structural similarity. All these proteins share a number of conserved sequence motifs. Some of them are specific to this family while others are shared by other ATP-binding proteins or by proteins belonging to the helicases `superfamily'. One of these motifs, called the 'D-E-A-D-box', represents a special version of the B motif of ATP-binding proteins. Proteins currently known to belong to this family include eukaryotic initiation factor eIF-4A; yeast PRP5, PRP28 and MSS116 splicing proteins, and proteins DHH1, DRS1, MAK5 and ROK1; mouse Pl10, Caenorhabditis elegans helicase glh-1; Drosophila Rm62 (p62), Me31B and Vasa; and Escherichia coli putative RNA helicases dbpA, deaD, rhlB and rhlE.
+<interpro id="IPR000630" protein_count="59629" short_name="Ribosomal_S8" type="Family">
+<interpro id="IPR000743" protein_count="40781" short_name="Glyco_hydro_28" type="Family">
+  <name>Glycoside hydrolase, family 28</name>
+    <p>
+      O-Glycosyl hydrolases (
+      ) are a widespread group of enzymes that hydrolyse the glycosidic bond between two or more carbohydrates, or between a carbohydrate and a non-carbohydrate moiety. A classification system for glycosyl hydrolases, based on sequence similarity, has led to the definition of 85 different families [
+      , 
+      ]. This classification is available on the CAZy (CArbohydrate-Active EnZymes) website.
+    
+<interpro id="IPR000823" protein_count="27982" short_name="Peroxidase_pln" type="Family">
+  <name>Plant peroxidase</name>
+    <p>Peroxidases are haem-containing enzymes that use hydrogen peroxide as
+    
+
+    <reaction>
+      
+Fe
+<interpro id="IPR001117" protein_count="67108" short_name="Cu-oxidase" type="Domain">
+  <name>Multicopper oxidase, type 1</name>
+    
+
+    <p>
+      Multicopper oxidases oxidise their substrate by accepting electrons at a mononuclear copper centre and transferring them to a trinuclear copper centre; dioxygen binds to the trinuclear centre and, following the transfer of four electrons, is reduced to two molecules of water [
+      ]. There are three spectroscopically different copper centres found in multicopper oxidases: type 1 (or blue), type 2 (or normal) and type 3 (or coupled binuclear) [
+      , 
+<interpro id="IPR001296" protein_count="474832" short_name="Glyco_trans_1" type="Domain">
+  <name>Glycosyl transferase, family 1</name>
+    <p>
+      The biosynthesis of disaccharides, oligosaccharides and polysaccharides involves the action of hundreds of different glycosyltransferases. These enzymes catalyse the transfer of sugar moieties from activated donor molecules to specific acceptor molecules, forming glycosidic bonds. A classification of glycosyltransferases using nucleotide diphospho-sugar, nucleotide monophospho-sugar and sugar phosphates ([intenz:2.4.1.-]) and related proteins into distinct sequence based families has been described [
+      ]. This classification is available on the CAZy (CArbohydrate-Active EnZymes) web site. The same three-dimensional fold is expected to occur within each of the families. Because 3-D structures are better conserved than sequences, several of the families defined on the basis of sequence similarities may have similar 3-D structures and therefore form 'clans'.
+    
+
+    <p>
+<interpro id="IPR001305" protein_count="65879" short_name="HSP_DnaJ_Cys-rich_dom" type="Domain">
+  <name>Heat shock protein DnaJ, cysteine-rich domain</name>
+    <p>
+      This entry represents the central cysteine-rich (CR) domain of DnaJ proteins. This central cysteine rich domain (CR-type zinc finger) has an overall V-shaped extended beta-hairpin topology and contains four repeats of the motif CXXCXGXG where X is any amino acid. The isolated cysteine rich domain folds in zinc dependent fashion. Each set of two repeats binds one unit of zinc.  Although this domain has been implicated in substrate binding, no evidence of specific interaction between the isolated DnaJ cysteine rich domain and various hydrophobic peptides has been found [
+      ].
+    
+
+    <p>
+<interpro id="IPR001650" protein_count="941620" short_name="Helicase_C" type="Domain">
+  <name>Helicase, C-terminal</name>
+    <p>
+      Helicases have been classified in 5 superfamilies (SF1-SF5). For the two largest groups, commonly referred to as SF1 and SF2, a total of seven characteristic motifs has been identified [
+      ]. These two superfamilies encompass a large number of DNA and RNA helicases from archaea, eubacteria, eukaryotes and viruses.
+    
+
+
+<interpro id="IPR001752" protein_count="103014" short_name="Kinesin_motor_dom" type="Domain">
+  <name>Kinesin motor domain</name>
+    <p>
+      Kinesin [
+      , 
+      , 
+      ] is a microtubule-associated force-producing protein that may play a role in organelle transport. The kinesin motor activity is directed toward the microtubule's plus end. Kinesin is an oligomeric complex composed of two heavy chains and two light chains. The maintenance of the quaternary structure does not require interchain disulphide bonds.
+    
+<interpro id="IPR001965" protein_count="147239" short_name="Znf_PHD" type="Domain">
+  <name>Zinc finger, PHD-type</name>
+    <p>
+      Zinc finger (Znf) domains are relatively small protein motifs which contain multiple finger-like protrusions that make tandem contacts with their target molecule. Some of these domains bind zinc, but many do not; instead binding other metals such as iron, or no metal at all. For example, some family members form salt bridges to stabilise the finger-like folds. They were first identified as a DNA-binding motif in transcription factor TFIIIA from Xenopus laevis (African clawed frog), however they are now recognised to bind DNA, RNA, protein and/or lipid substrates [
+      , 
+      , 
+      , 
+      , 
+<interpro id="IPR002022" protein_count="18131" short_name="Pec_lyase" type="Domain">
+  <name>Pectate lyase</name>
+    <p>
+      Pectate lyase 
+       is an enzyme involved in the maceration and soft rotting of plant tissue. Pectate lyase is responsible for the eliminative cleavage of pectate, yielding oligosaccharides with 4-deoxy-alpha-D-mann-4-enuronosyl groups at their non-reducing ends. The protein is maximally expressed late in pollen development. It has been suggested that the pollen expression of pectate lyase genes might relate to a requirement for pectin degradation during pollen tube growth [
+      ]. 
+    
+
+<interpro id="IPR002119" protein_count="22376" short_name="Histone_H2A" type="Family">
+  <name>Histone H2A</name>
+    <p>
+      Histone H2A is a small, highly conserved nuclear protein that, together with two molecules each of histones H2B, H3 and H4, forms the eukaryotic nucleosome core [
+      ]; the nucleosome octamer winds ~146 DNA base-pairs.  In the mouse, histone H2A can be replaced by histone H2A-like 1 [
+      ].
+      <category>molecular_function</category>
+      <description>DNA binding</description>
+<interpro id="IPR002173" protein_count="152083" short_name="Carboh/pur_kinase_PfkB_CS" type="Conserved_site">
+  <name>Carbohydrate/purine kinase, PfkB, conserved site</name>
+    <p>
+      It has been shown [
+      , 
+      , 
+      ] that the following carbohydrate and purine kinases are evolutionary related and can be grouped into a single family, which is known [
+      ] as the 'pfkB family':
+<interpro id="IPR002194" protein_count="33010" short_name="Chaperonin_TCP-1_CS" type="Conserved_site">
+  <name>Chaperonin TCP-1, conserved site</name>
+    <p>
+      The TCP-1 protein [
+      , 
+      ] (Tailless Complex Polypeptide 1) was first identified in mice where it is especially abundant in testis but present in all cell types. It has since been found and characterised in many other animal species, as well as in yeast, plants and protists. TCP-1 is a highly conserved protein of about 60kDa (556 to 560 residues) which participates in a hetero-oligomeric 900kDa double-torus shaped particle [
+      ] with 6 to 8 other different subunits. These subunits, the chaperonin containing TCP-1 (CCT) subunit beta, gamma, delta, epsilon, zeta and eta are evolutionary related to TCP-1 itself [
+      , 
+<interpro id="IPR002423" protein_count="130954" short_name="Cpn60/GroEL/TCP-1" type="Family">
+  <name>Chaperonin Cpn60/GroEL/TCP-1 family</name>
+    <p>
+      The assembly of proteins has been thought to be the sole result of properties inherent in the primary sequence of polypeptides themselves. In some cases, however, structural information from other protein molecules is required for correct folding and subsequent assembly into oligomers [
+      ]. These 'helper' molecules are referred to as molecular chaperones, a subfamily of which are the chaperonins [
+      ], which include 10kDa and 60kDa proteins. These are found in abundance in prokaryotes, chloroplasts and mitochondria. They are required for normal cell growth (as demonstrated by the fact that no temperature sensitive mutants for the chaperonin genes can be found in the temperature range 20 to 43 degrees centigrade [
+      ]), and are stress-induced, acting to stabilise or protect disassembled polypeptides under heat-shock conditions [
+      ].
+<interpro id="IPR002453" protein_count="43927" short_name="Beta_tubulin" type="Family">
+  <name>Beta tubulin</name>
+    <p>
+       Microtubules are polymers of tubulin, a dimer of two 55kDa subunits, 
+designated alpha and beta [
+      , 
+      ]. Within the microtubule lattice, alpha-beta
+heterodimers associate in a head-to-tail fashion, giving rise to microtubule 
+<interpro id="IPR002659" protein_count="26757" short_name="Glyco_trans_31" type="Family">
+  <name>Glycosyl transferase, family 31</name>
+    <p>
+      The biosynthesis of disaccharides, oligosaccharides and polysaccharides involves the action of hundreds of different glycosyltransferases. These enzymes catalyse the transfer of sugar moieties from activated donor molecules to specific acceptor molecules, forming glycosidic bonds. A classification of glycosyltransferases using nucleotide diphospho-sugar, nucleotide monophospho-sugar and sugar phosphates ([intenz:2.4.1.-]) and related proteins into distinct sequence based families has been described [
+      ]. This classification is available on the CAZy (CArbohydrate-Active EnZymes) web site. The same three-dimensional fold is expected to occur within each of the families. Because 3-D structures are better conserved than sequences, several of the families defined on the basis of sequence similarities may have similar 3-D structures and therefore form 'clans'.
+    
+
+    <p>
+<interpro id="IPR002683" protein_count="5866" short_name="PsbP_C" type="Domain">
+  <name>PsbP, C-terminal</name>
+    
+
+    <p>
+      PSII is a multisubunit protein-pigment complex containing polypeptides both intrinsic and extrinsic to the photosynthetic membrane [
+      , 
+      , 
+<interpro id="IPR003107" protein_count="31224" short_name="HAT" type="Repeat">
+  <name>HAT (Half-A-TPR) repeat</name>
+    <p>
+      The HAT (Half A TPR) repeat has a repetitive pattern characterised by three aromatic residues with a conserved spacing. They are structurally and sequentially similar to TPRs (tetratricopeptide repeats), though they lack the highly conserved alanine and glycine residues found in TPRs. The number of HAT repeats found in different proteins varies between 9 and 12. HAT-repeat-containing proteins appear to be components of macromolecular complexes that are required for RNA processing [
+      ]. The HAT motif has striking structural similarities to HEAT repeats (
+      ), being of a similar length and consisting of two short helices connected by a loop domain, as in HEAT repeats. Some studies have suggested that the HAT repeats may be involved in protein-protein interactions [
+      , 
+      ]. However, the HAT repeats of Arabidopsis HCF107 protein have been shown to bind RNA [
+<interpro id="IPR003337" protein_count="27715" short_name="Trehalose_PPase" type="Family">
+  <name>Trehalose-phosphatase</name>
+    <p>
+      Trehalose-phosphatases 
+       catalyse the de-phosphorylation of
+ trehalose-6-phosphate to trehalose and orthophosphate. Trehalose is a common disaccharide of bacteria, fungi and invertebrates that appears to play a major role in desiccation tolerance. A pathway for trehalose biosynthesis may also exist in plants [
+      ]. The trehalose-phosphatase signature is  found in the C terminus of
+ trehalose-6-phosphate synthase 
+<interpro id="IPR003653" protein_count="35137" short_name="Peptidase_C48_C" type="Domain">
+  <name>Ulp1 protease family, C-terminal catalytic domain</name>
+    <p>
+      This entry represents the C-terminal part of ubiquitin-like proteases
+that displays full proteolytic activity [
+      ].
+    
+
+<interpro id="IPR003851" protein_count="10295" short_name="Znf_Dof" type="Domain">
+  <name>Zinc finger, Dof-type</name>
+    <p>
+      Zinc finger (Znf) domains are relatively small protein motifs which contain multiple finger-like protrusions that make tandem contacts with their target molecule. Some of these domains bind zinc, but many do not; instead binding other metals such as iron, or no metal at all. For example, some family members form salt bridges to stabilise the finger-like folds. They were first identified as a DNA-binding motif in transcription factor TFIIIA from Xenopus laevis (African clawed frog), however they are now recognised to bind DNA, RNA, protein and/or lipid substrates [
+      , 
+      , 
+      , 
+      , 
+<interpro id="IPR004000" protein_count="81995" short_name="Actin" type="Family">
+  <name>Actin family</name>
+    <p>
+      Actin [
+      , 
+      ] is a ubiquitous protein involved in the formation of filaments that are major components of the cytoskeleton. These filaments interact with myosin to produce a sliding effect, which is the basis of muscular contraction and many aspects of cell motility, including cytokinesis. Each actin protomer binds one molecule of ATP and has one high affinity site for either calcium or magnesium ions, as well as several low affinity sites. Actin exists as a monomer in low salt concentrations, but filaments form rapidly as salt concentration rises, with the consequent hydrolysis of ATP. Actin from many sources forms a tight complex with deoxyribonuclease (DNase I) although the significance of this is still unknown. The formation of this complex results in the inhibition of DNase I activity, and actin loses its ability to polymerise. It has been shown that an ATPase domain of actin shares similarity with ATPase domains of hexokinase and hsp70
+proteins [
+      , 
+<interpro id="IPR004146" protein_count="8790" short_name="DC1" type="Domain">
+  <name>DC1</name>
+    <p>
+      This short domain is rich in cysteines and histidines. The pattern of conservation is similar to that found in DAG_PE-bind (
+      ), therefore we have termed this domain DC1 for divergent C1 domain. This domain probably also binds to two zinc ions. The function of proteins with this domain is uncertain, however this domain may bind to molecules such as diacylglycerol. This family are found in plant proteins.
+<interpro id="IPR004147" protein_count="66365" short_name="ABC1_dom" type="Domain">
+  <name>ABC1 atypical kinase-like domain</name>
+    <p>
+<interpro id="IPR004853" protein_count="29768" short_name="Sugar_P_trans_dom" type="Domain">
+  <name>Sugar phosphate transporter domain</name>
+    <p>
+      This domain is found in a number of sugar phosphate transporters, including those with a specificity for triose phosphate [
+      ]. 
+<interpro id="IPR004854" protein_count="5931" short_name="Ufd1-like" type="Family">
+  <name>Ubiquitin fusion degradation protein Ufd1-like</name>
+    
+<interpro id="IPR005123" protein_count="154078" short_name="Oxoglu/Fe-dep_dioxygenase" type="Domain">
+  <name>Oxoglutarate/iron-dependent dioxygenase</name>
+    <p>
+      Enzymes with the Fe(2+) and 2-oxoglutarate (2OG)-dependent dioxygenase domain typically catalyse the oxidation of an organic substrate using a dioxygen molecule, mostly by using ferrous iron as the active site cofactor and 2OG as a co-substrate which is decarboxylated to succinate and CO2 [
+      ]. Iron 2OG dioxygenase domain proteins are widespread among eukaryotes and bacteria. In metazoans, prolyl hydroxylases containing the domain act as oxygen sensors and catalyse the hydroxylation of conserved prolyl residues in hypoxia-inducible transcription factor (HIF) alpha [
+      , 
+      ]. In plants, Fe(II) 2OG dioxygenase domain enzymes catalyse the formation of plant hormones, such as ethylene, gibberellins, anthocyanidins and pigments such as flavones. In bacteria and fungi Fe(II) 2OG dioxygenase domain enzymes participate in the biosynthesis of antibiotics such as penicillin and cephalosporin. The eukaryotic and bacterial protein AlkB that also shows this structural domain is involved in DNA-repair [
+      , 
+<interpro id="IPR006068" protein_count="86718" short_name="ATPase_P-typ_cation-transptr_C" type="Domain">
+  <name>Cation-transporting P-type ATPase, C-terminal</name>
+    <p>
+      P-ATPases (also known as E1-E2 ATPases) ([intenz:3.6.3.-]) are found in bacteria and in a number of eukaryotic plasma membranes and organelles [
+      ]. P-ATPases function to transport a variety of different compounds, including ions and phospholipids, across a membrane using ATP hydrolysis for energy.  There are many different classes of P-ATPases, which transport specific types of ion: H
+      <sup>+</sup>
+      , Na
+      <sup>+</sup>
+<interpro id="IPR006379" protein_count="114983" short_name="HAD-SF_hydro_IIB" type="Family">
+  <name>HAD-superfamily hydrolase, subfamily IIB</name>
+    <p>
+      This subfamily falls within the Haloacid Dehalogenase (HAD) superfamily of aspartate-nucleophile hydrolases. The Class II subfamilies are characterised by a domain that is located between the second and third conserved catalytic motifs of the superfamily domain. The IIB subfamily is distinguished from the IIA subfamily (
+      ) by homology and the predicted secondary structure of this domain by PSI-PRED. The IIB subfamilys Class II domain has the following predicted structure: Helix-Sheet-Sheet-(Helix or Sheet)-Helix-Sheet-(variable)-Helix-Sheet-Sheet. The IIB subfamily consists of trehalose-6-phosphatase, plant and cyanobacterial sucrose-phosphatase and a closely related group of bacterial and archaeal sequences, eukaryotic phosphomannomutase, a large subfamily of Cof-like hydrolases, containing many closely related bacterial sequences, a hypothetical equivalog containing the Escherichia coli YedP protein, as well as two other small clusters whose relationship to the other groups is unclear.
+  <child_list>
+  </child_list>
+<interpro id="IPR006380" protein_count="7948" short_name="SPP_N" type="Domain">
+<interpro id="IPR006626" protein_count="125592" short_name="PbH1" type="Repeat">
+  <name>Parallel beta-helix repeat</name>
+    <p>
+       The tertiary structures of pectate lyases and
+rhamnogalacturonase A show a stack of parallel beta
+ strands that are coiled into a large helix. Each coil of the helix represents
+a structural repeat that, in
+ some homologues, can be recognised from sequence information alone.
+<interpro id="IPR006638" protein_count="449381" short_name="Elp3/MiaB/NifB" type="Domain">
+  <name>Elp3/MiaB/NifB</name>
+    <p>
+      This domain is found in MoaA, NifB, PqqE, coproporphyrinogen
+III oxidase, biotin synthase
+ and MiaB families, and includes a representative in the eukaryotic elongator
+subunit, Elp-3. Some
+ members of the family are methyltransferases [
+<interpro id="IPR006689" protein_count="53324" short_name="Small_GTPase_ARF/SAR" type="Family">
+  <name>Small GTPase superfamily, ARF/SAR type</name>
+    <p>
+      This entry represents a branch of the small GTPase superfamily that includes the ADP ribosylation factor Arf, Arl (Arf-like), Arp
+(Arf-related proteins) and the remotely related Sar (Secretion-associated and Ras-related) proteins.  Arf proteins are major regulators of vesicle biogenesis in intracellular traffic [
+      ]. They cycle between inactive GDP-bound and active GTP-bound forms that bind selectively to effectors. The classical structural GDP/GTP switch is characterised by conformational changes at the so-called switch 1 and switch 2 regions, which bind tightly to the gamma-phosphate of GTP but poorly or not at all to the GDP nucleotide. Structural studies of Arf1 and Arf6 have revealed that although these proteins feature the switch 1 and 2 conformational changes, they depart from other small GTP-binding proteins in that they use an additional, unique switch to propagate structural information from one side of the protein to the other. 
+     
+    <p> The GDP/GTP structural cycles of human Arf1 and Arf6 feature a unique conformational change that affects the beta2-beta3 strands connecting switch 1 and switch 2 (interswitch) and also the amphipathic helical N terminus.  In GDP-bound
+<interpro id="IPR007197" protein_count="726724" short_name="rSAM" type="Domain">
+  <name>Radical SAM</name>
+    <p>
+      Radical SAM proteins are found in all three domains of life and share an unusual Fe-S cluster associated with generation of a free radical by reductive cleavage of SAM and often provide an anaerobic or oxygen-independent mechanism that is found as an aerobic reaction in other proteins. Radical SAM proteins catalyse diverse reactions, including unusual methylations, isomerization, sulphur insertion, ring formation, anaerobic oxidation and protein radical formation. These proteins function in DNA precursor, vitamin, cofactor, antibiotic and herbicide biosynthesis and in biodegradation pathways [
+      , 
+      ].
+    
+
+<interpro id="IPR007524" protein_count="1304" short_name="Pec_lyase_N" type="Domain">
+  <name>Pectate lyase, N-terminal</name>
+    <p>
+      This region is found N-terminal to the pectate lyase domain (
+      ) in some plant pectate lyase enzymes.
+      <category>molecular_function</category>
+      <description>pectate lyase activity</description>
+<interpro id="IPR007525" protein_count="10018" short_name="FrhB_FdhB_C" type="Domain">
+<interpro id="IPR008480" protein_count="7909" short_name="DUF761_pln" type="Family">
+  <name>Protein of unknown function DUF761, plant</name>
+    <p>
+      This family consists of several plant proteins of unknown function, including pathogen-associated molecular patterns-induced protein A70 from Arabidopsis thaliana, which is induced during Pseudomonas syringae infection by jasmonic acid and wounding [
+      ]. 
+<interpro id="IPR008481" protein_count="19" short_name="DUF762_COXBU" type="Family">
+  <name>Protein of unknown function DUF762, Coxiella burnetii</name>
+<interpro id="IPR008482" protein_count="4059" short_name="DUF763" type="Family">
+<interpro id="IPR008847" protein_count="5481" short_name="Suf" type="Domain">
+  <name>Suppressor of forked</name>
+    <p>
+      This domain consists of several eukaryotic suppressor of forked (Suf) like proteins. The Drosophila melanogaster suppressor of forked [Su(f)] protein shares homology with the Saccharomyces cerevisiae RNA14 protein and the 77kDa subunit of Homo sapiens cleavage stimulation factor, which are proteins involved in mRNA 3' end formation. This suggests a role for Su(f) in mRNA 3' end formation in Drosophila. The su(f) gene produces three transcripts; two of them are polyadenylated at the end of the transcription unit, and one is a truncated transcript, polyadenylated in intron 4. It is thought that su(f) plays a role in the regulation of poly(A) site utilisation and the GU-rich sequence is important for this regulation to occur [
+      ].
+      <category>biological_process</category>
+      <description>RNA processing</description>
+      <category>cellular_component</category>
+<interpro id="IPR008928" protein_count="367529" short_name="6-hairpin_glycosidase_sf" type="Homologous_superfamily">
+  <name>Six-hairpin glycosidase superfamily</name>
+    <p>
+      The biosynthesis of disaccharides, oligosaccharides and polysaccharides involves the action of hundreds of different glycosyltransferases. These enzymes catalyse the transfer of sugar moieties from activated donor molecules to specific acceptor molecules, forming glycosidic bonds. A classification of glycosyltransferases using nucleotide diphospho-sugar, nucleotide monophospho-sugar and sugar phosphates ([intenz:2.4.1.-]) and related proteins into distinct sequence based families has been described [
+      ]. This classification is available on the CAZy (CArbohydrate-Active EnZymes) web site. The same three-dimensional fold is expected to occur within each of the families. Because 3-D structures are better conserved than sequences, several of the families defined on the basis of sequence similarities may have similar 3-D structures and therefore form 'clans'.
+    
+
+      <category>biological_process</category>
+<interpro id="IPR008936" protein_count="127261" short_name="Rho_GTPase_activation_prot" type="Homologous_superfamily">
+  <name>Rho GTPase activation protein</name>
+    <p>
+       Proteins containing a RhoGAP (Rho GTPase Activating Protein) domain usually function to catalyse the hydrolysis of GTP that is bound to Rho, Rac and/or Cdc42, inactivating these regulators of the actin cytoskeleton. The 53 known human RhoGAP domain-containing proteins are the largest known group of Rho GTPase regulators and significantly outnumber the 21 Rho GTPases they presumably regulate. This excess of GAP proteins probably indicates complex regulation of the Rho GTPases and is consistent with the existence of almost as many (48) human Dbl domain-containing Rho GEFs  that act antagonistically to the RhoGAP proteins by activating the Rho GTPases. Phylogenetic analysis offers evidence for frequent domain duplication and for duplication of the entire genes containing these GAP domains [
+      ].
+      <category>biological_process</category>
+      <description>signal transduction</description>
+<interpro id="IPR008937" protein_count="38407" short_name="Ras-like_GEF" type="Family">
+<interpro id="IPR008972" protein_count="334541" short_name="Cupredoxin" type="Homologous_superfamily">
+  <name>Cupredoxin</name>
+    
+
+    <p>
+      This entry represents cupredoxin proteins, as well as structural homologues to cupredoxin.  Structurally, the cupredoxin-like fold consists of a beta-sandwich with 7 strands in 2 beta-sheets, which is arranged in a Greek-key beta-barrel [
+      ]. Some of these proteins have lost the ability to bind copper. Proteins with a cupredoxin-type fold are found in the following family groups: 
+    
+<interpro id="IPR009072" protein_count="167881" short_name="Histone-fold" type="Homologous_superfamily">
+  <name>Histone-fold</name>
+    <p>
+       Histones mediate DNA organisation and plays a dominant role in regulating eukaryotic transcription. The histone-fold consists of a core of three helices, where the long middle helix is flanked at each end by shorter ones. The histone fold is a structural element that facilitates heterodimerisation [
+      , 
+      , 
+      ]. Proteins displaying this structure include the nucleosome core histones, which form octomers composed of two copies of each of the four histones, H2A, H2B, H3 and H4; archaeal histone, which possesses only the core domain part of eukaryotic histone; and the TATA-box binding protein (TBP)-associated factors (TAF), where the histone fold is a common motif for mediating TAF-TAF interactions. TAF proteins include TAF(II)18 and TAF(II)28, which form a heterodimer, TAF(II)42 and TAF(II)62, which form a heterotetramer similar to (H3-H4)2, and the negative cofactor 2 (NC2) alpha and beta chains, which form a heterodimer. The TAF proteins are a component of transcription factor IID (TFIID), along with the TBP protein. TFIID forms part of the pre-initiation complex on core promoter elements required for RNA polymerase II-dependent transcription. The TAF subunits of TFIID mediate transcriptional activation of subsets of eukaryotic genes. The NC2 complex mediates the inhibition of TATA-dependent transcription through interactions with TBP. 
+      <category>molecular_function</category>
+<interpro id="IPR011545" protein_count="568115" short_name="DEAD/DEAH_box_helicase_dom" type="Domain">
+  <name>DEAD/DEAH box helicase domain</name>
+    <p>
+      Proteins with this domain include the DEAD and DEAH box helicases. Helicases are involved in unwinding nucleic acids. The DEAD box helicases are involved in various aspects of RNA metabolism, including nuclear transcription, pre mRNA splicing, ribosome biogenesis, nucleocytoplasmic transport, translation, RNA decay and organellar gene expression [
+      , 
+      ].
+      <category>molecular_function</category>
+      <description>nucleic acid binding</description>
+<interpro id="IPR011611" protein_count="244444" short_name="PfkB_dom" type="Domain">
+  <name>Carbohydrate kinase PfkB</name>
+    <p>
+       This domain is found in a variety of carbohydrate and pyrimidine kinases. It is found in phosphomethylpyrimidine kinase (
+      ), which is part of the thiamine pyrophosphate (TPP) synthesis pathway - TPP being an essential cofactor for many enzymes [
+      ]. It is also found in 2-keto-3-deoxygluconate kinase, which is a component of the Entner-Doudoroff pathway in hyperthermophilic archaea [
+      ].
+  <child_list>
+<interpro id="IPR011707" protein_count="82452" short_name="Cu-oxidase_N" type="Domain">
+  <name>Multicopper oxidase, N-termianl</name>
+    
+
+    <p>
+      Multicopper oxidases oxidise their substrate by accepting electrons at a mononuclear copper centre and transferring them to a trinuclear copper centre; dioxygen binds to the trinuclear centre and, following the transfer of four electrons, is reduced to two molecules of water [
+      ]. There are three spectroscopically different copper centres found in multicopper oxidases: type 1 (or blue), type 2 (or normal) and type 3 (or coupled binuclear) [
+      , 
+<interpro id="IPR012340" protein_count="1506466" short_name="NA-bd_OB-fold" type="Homologous_superfamily">
+  <name>Nucleic acid-binding, OB-fold</name>
+    <p>
+       A five-stranded beta-barrel was first noted as a common structure among four proteins binding single-stranded nucleic acids (staphylococcal nuclease and
+aspartyl-tRNA synthetase) or oligosaccharides (B subunits of enterotoxin and verotoxin-1), and has been termed the oligonucleotide/oligosaccharide binding motif, or OB fold, a five-stranded beta-sheet coiled to form a closed beta-barrel capped by an alpha helix located between the third and fourth strands [
+      ]. Two ribosomal proteins, S17 and S1, are members of this class, and have different variations of the OB fold theme. Comparisons with other OB fold nucleic acid binding proteins suggest somewhat different mechanisms of nucleic acid recognition in each case [
+      ].
+    
+<interpro id="IPR012394" protein_count="33886" short_name="Aldehyde_DH_NAD(P)" type="Family">
+  <name>Aldehyde dehydrogenase NAD(P)-dependent</name>
+    <p>
+      Aldehydes are produced as intermediates during the metabolism of many different compounds including amino acids, carbohydrates, lipids vitamins and steroids [
+      ]. They are highly reactive compounds whose buildup to excess levels can cause cytotoxic, genotoxic and carcinogenic effects. Aldehyde dehydrogenases oxidise these compounds to their respective carboxylic acids. This is necessary both for the operation of these metabolic pathways, and  to prevent the concentration of aldehydes within the cell from reaching toxic levels.
+Proteins in this entry are NAD(P)-dependent aldehyde dehydrogenases, found in a variety of organisms, including general aldehyde dehydrogensases (
+      ), fatty aldehyde dehydrogenases (
+      ), and coniferyl aldehyde dehydrogenase (
+<interpro id="IPR012946" protein_count="16315" short_name="X8" type="Domain">
+  <name>X8 domain</name>
+    <p>
+      The X8 domain [
+      ] contains 6 conserved cysteine residues that presumably form three disulphide bridges. The domain is found in an Olive pollen allergen [
+      ] as well as at the C terminus of family 17 glycosyl hydrolases [
+      ]. This domain may be involved in carbohydrate binding.
+<interpro id="IPR012947" protein_count="116192" short_name="tRNA_SAD" type="Domain">
+<interpro id="IPR013763" protein_count="78965" short_name="Cyclin-like" type="Domain">
+  <name>Cyclin-like</name>
+    <p>
+      This cyclin-like domain is found in cyclins, but it is also found as the core domain in transcription factor IIB (TFIIB) [
+      ] and in the retinoblastoma tumour suppressor [
+      ]. It consists of a duplication of a fold consisting of 5 helices, one of them surrounded by the others.
+  <child_list>
+  </child_list>
+<interpro id="IPR013838" protein_count="13826" short_name="Beta-tubulin_BS" type="Binding_site">
+  <name>Beta tubulin, autoregulation binding site</name>
+    <p>
+      The stability of beta-tubulin mRNAs are autoregulated by their own translation product [
+      ]. Unpolymerised tubulin subunits bind directly (or activate a factor(s) which binds co-translationally) to the nascent N terminus of beta-tubulin. This binding is transduced through the adjacent ribosomes to activate an RNAse that degrades the polysome-bound mRNA. The recognition element has been shown to be the first four amino acids of beta-tubulin: Met-Arg-Glu-Ile. Mutations to this sequence abolish the autoregulation effect (except for the replacement of Glu by Asp); transposition of this sequence to an internal region of a polypeptide also suppresses the autoregulatory effect.
+<interpro id="IPR013839" protein_count="51394" short_name="DNAligase_adenylation" type="Domain">
+  <name>NAD-dependent DNA ligase, adenylation</name>
+    <p>
+<interpro id="IPR013922" protein_count="14197" short_name="Cyclin_PHO80-like" type="Family">
+  <name>Cyclin PHO80-like</name>
+    <p>
+      Cyclins are eukaryotic proteins that play an active role in controlling nuclear cell division cycles [
+      ], and regulate cyclin dependent kinases (CDKs). Cyclins, together with the p34 (cdc2) or cdk2 kinases, form the Maturation Promoting Factor (MPF). There are two main groups of cyclins, G1/S cyclins, which are essential for the control of the cell cycle at the G1/S (start) transition, and G2/M cyclins, which are essential for the control of the cell cycle at the G2/M (mitosis) transition. G2/M cyclins accumulate steadily during G2 and are abruptly destroyed as cells exit from mitosis (at the end of the M-phase). In most species, there are multiple forms of G1 and G2 cyclins. For example, in vertebrates, there are two G2 cyclins, A and B, and at least three G1 cyclins, C, D, and E.
+    
+
+    <p>
+<interpro id="IPR014001" protein_count="1032178" short_name="Helicase_ATP-bd" type="Domain">
+  <name>Helicase superfamily 1/2, ATP-binding domain</name>
+    <p>
+      Helicases have been classified in 5 superfamilies (SF1-SF5). All of the proteins bind ATP and, consequently, all of them carry the classical Walker A
+(phosphate-binding loop or P-loop) and Walker B
+(Mg2+-binding aspartic acid) motifs. For the two largest groups, commonly
+referred to as SF1 and SF2, a total of seven characteristic motifs has been
+identified [
+<interpro id="IPR014014" protein_count="183215" short_name="RNA_helicase_DEAD_Q_motif" type="Domain">
+  <name>RNA helicase, DEAD-box type, Q motif</name>
+    <p>
+      RNA  helicases  from the DEAD-box family are found in almost all organisms and
+have  important  roles  in  RNA  metabolism  such  as splicing, RNA transport,
+ribosome  biogenesis,  translation  and RNA decay. They are enzymes that unwind
+double-stranded  RNA  molecules  in  an  energy  dependent fashion through the
+hydrolysis  of  NTP.  DEAD-box  RNA helicases belong to superfamily 2 (SF2) of
+<interpro id="IPR014756" protein_count="429504" short_name="Ig_E-set" type="Homologous_superfamily">
+  <name>Immunoglobulin E-set</name>
+    <p>
+      The immunoglobulin (Ig) like fold, which consists of a beta-sandwich of seven or more strands in two sheets with a greek-key topology, is one of the most common protein modules found in animals. Many different unrelated proteins share an Ig-like fold, which is often involved in interactions, commonly with other Ig-like domains via their beta-sheets [
+      ]. Of these, the &quot;early&quot; set (E set) domains are possibly related to the immunoglobulin (
+      ) and/or fibronectin type III (
+      ) Ig-like protein superfamilies. Ig-like E set domains include:
+
+<interpro id="IPR015590" protein_count="497072" short_name="Aldehyde_DH_dom" type="Domain">
+  <name>Aldehyde dehydrogenase domain</name>
+    <p>
+      Aldehyde dehydrogenases (
+       and 
+      ) are enzymes that oxidize a wide variety of aliphatic and aromatic aldehydes using NADP as a cofactor. In mammals at least four different forms of the enzyme are known [
+      ]: class-1 (or Ald C) a tetrameric cytosolic enzyme, class-2 (or Ald M) a tetrameric mitochondrial enzyme, class- 3 (or Ald D) a dimeric cytosolic enzyme, and class IV a microsomal enzyme. Aldehyde dehydrogenases have also been sequenced from fungal and bacterial species. A number of enzymes are known to be evolutionary related to aldehyde dehydrogenases. A glutamic acid and a cysteine residue have been implicated in the catalytic activity of mammalian aldehyde dehydrogenase. These residues are conserved in all the enzymes of this entry.
+    
+<interpro id="IPR016123" protein_count="12638" short_name="Mog1/PsbP_a/b/a-sand" type="Homologous_superfamily">
+  <name>Mog1/PsbP, alpha/beta/alpha sandwich</name>
+    
+
+    <p>
+      <ul>
+        
+
+<interpro id="IPR016161" protein_count="554020" short_name="Ald_DH/histidinol_DH" type="Homologous_superfamily">
+  <name>Aldehyde/histidinol dehydrogenase</name>
+    <p>
+      This entry represents a structural domain found in aldehyde dehydrogenases [
+      ] and histidinol dehydrogenases [
+      ]. These proteins contain two similar domains, each with a 3-layer alpha/beta/alpha structure, which probably arose from a duplication. These enzymes bind NAD differently from other NAD(P)-dependent oxidoreductases. 
+    
+
+<interpro id="IPR016162" protein_count="499997" short_name="Ald_DH_N" type="Homologous_superfamily">
+  <name>Aldehyde dehydrogenase, N-terminal</name>
+    <p>
+      This superfamily represents a structural domain found at the N-terminal of aldehyde dehydrogenases [
+      ]. These proteins contain two similar domains, each with a 3-layer alpha/beta/alpha structure, which probably arose from a duplication; this entry covers the N-terminal a/b/a domain. These enzymes binds NAD differently from other NAD(P)-dependent oxidoreductases. 
+    
+
+
+<interpro id="IPR016163" protein_count="482342" short_name="Ald_DH_C" type="Homologous_superfamily">
+  <name>Aldehyde dehydrogenase, C-terminal</name>
+    <p>
+      This superfamily represents a structural domain found at the C-terminal of aldehyde dehydrogenases [
+      ]. These proteins contain two similar domains, each with a 3-layer alpha/beta/alpha structure, which probably arose from a duplication; this entry covers the C-terminal a/b/a domain. These enzymes bind NAD differently from other NAD(P)-dependent oxidoreductases. 
+    
+
+
+<interpro id="IPR017451" protein_count="27750" short_name="F-box-assoc_interact_dom" type="Domain">
+  <name>F-box associated interaction domain</name>
+    <p>
+      This domain occurs in a diverse superfamily of genes in plants. Most examples are found C-terminal to an F-box (
+      ), a 60 amino acid motif involved in ubiquitination of target proteins to mark them for degradation. Two-hybid experiments support the idea that most members are interchangeable F-box subunits of SCF E3 complexes [
+      ]. Some members have two copies of this domain.
+  <child_list>
+  </child_list>
+<interpro id="IPR017975" protein_count="47750" short_name="Tubulin_CS" type="Conserved_site">
+  <name>Tubulin, conserved site</name>
+    <p>
+      Microtubules are polymers of tubulin, a dimer of two 55kDa subunits, 
+designated alpha and beta [
+      , 
+      ]. Within the microtubule lattice, alpha-beta heterodimers associate in a head-to-tail fashion, giving rise to microtubule polarity. Fluorescent labelling studies have suggested that tubulin is oriented in microtubules with beta-tubulin toward the plus end [
+      ].
+<interpro id="IPR017998" protein_count="43605" short_name="Chaperone_TCP-1" type="Family">
+  <name>Chaperone tailless complex polypeptide 1 (TCP-1)</name>
+    <p>
+      Protein folding is thought to be the sole result of properties inherent in polypeptide primary sequences. Sometimes, however, additional proteins are required to mediate correct folding and subsequent oligomer assembly [
+      ]. These `helpers', or chaperones, bind to specific protein surfaces, preventing incorrect folding and formation of non-functional structures [
+      ].
+    
+ 
+<interpro id="IPR018082" protein_count="6661" short_name="AmbAllergen" type="Family">
+  <name>AmbAllergen</name>
+    <p>
+      Pectate lyase 
+       is an enzyme involved in the maceration and soft rotting of plant tissue. Pectate lyase is responsible for the eliminative cleavage of pectate, yielding oligosaccharides with 4-deoxy-alpha-D-mann-4-enuronosyl groups at their non-reducing ends. The protein is maximally expressed late in pollen development. It has been suggested that the pollen expression of  pectate lyase genes might relate to a requirement for pectin degradation during pollen tube growth [
+      ]. 
+    
+
+<interpro id="IPR019794" protein_count="43102" short_name="Peroxidases_AS" type="Active_site">
+  <name>Peroxidase, active site</name>
+    <p>
+      Peroxidases are haem-containing enzymes that use hydrogen peroxide as
+the electron acceptor to catalyse a number of oxidative reactions.
+Most haem peroxidases follow the reaction scheme:
+
+      <reaction>
+<interpro id="IPR019821" protein_count="73824" short_name="Kinesin_motor_CS" type="Conserved_site">
+  <name>Kinesin motor domain, conserved site</name>
+    <p>
+      Kinesin [
+      , 
+      , 
+      ] is a microtubule-associated force-producing protein that may play a role in organelle transport. The kinesin motor activity is directed toward the microtubule's plus end. Kinesin is an oligomeric complex composed of two heavy chains and two light chains. The maintenance of the quaternary structure does not require interchain disulphide bonds.
+    
+<interpro id="IPR020904" protein_count="753019" short_name="Sc_DH/Rdtase_CS" type="Conserved_site">
+  <name>Short-chain dehydrogenase/reductase, conserved site</name>
+    <p>
+      The short-chain dehydrogenases/reductases family (SDR) [
+      , 
+      ] is a very large family of enzymes, most of which are known to be NAD- or NADP-dependent oxidoreductases. As the first member of this family to be characterised was Drosophila alcohol dehydrogenase, this family used to be called [
+      , 
+      , 
+<interpro id="IPR021720" protein_count="12126" short_name="Malectin_dom" type="Domain">
+  <name>Malectin domain</name>
+    <p>
+      This entry represents a malectin domain, and can also be found in probable receptor-like serine/threonine-protein kinases from plants [
+      ] and in proteins described as glycoside hydrolases. 
+    
+
+    <p>
+<interpro id="IPR023214" protein_count="1099702" short_name="HAD_sf" type="Homologous_superfamily">
+  <name>HAD superfamily</name>
+    <p>
+      The haloacid dehydrogenase (HAD) superfamily includes phosphatases, phosphonatases, P-type ATPases, beta-phosphoglucomutases, phosphomannomutases, and dehalogenases, which are involved in a variety of cellular processes ranging from amino acid biosynthesis to detoxification[
+      ].
+    
+
+
+<interpro id="IPR023404" protein_count="199101" short_name="rSAM_horseshoe" type="Homologous_superfamily">
+  <name>Radical SAM, alpha/beta horseshoe</name>
+    <p>
+      Radical SAM domains catalyze diverse reactions, including unusual methylations, isomerization, sulphur insertion, ring formation, anaerobic oxidation and protein radical formation. Evidence exists that these proteins generate a radical species by reductive cleavage of S:-adenosylmethionine (SAM) through an unusual Fe-S centre [
+      , 
+      ].
+    
+
+<interpro id="IPR024709" protein_count="10446" short_name="FucosylTrfase_pln" type="Family">
+  <name>Putative O-fucosyltransferase, plant</name>
+    <p>
+      This entry represents a group of plant-specific O-fucosyltransferases and their homologues [
+      ]. O-fucosyltransferase-like proteins are GDP-fucose dependent enzymes with similarities to the family 1 glycosyltransferases (GT1). They are soluble ER proteins that may be proteolytically cleaved from a membrane-associated preprotein, and are involved in the O-fucosylation of protein substrates, the core fucosylation of growth factor receptors, and other processes [
+      , 
+      ].
+<interpro id="IPR024710" protein_count="1149" short_name="MfnD" type="Family">
+<interpro id="IPR025525" protein_count="6230" short_name="hAT-like_transposase_RNase-H" type="Domain">
+  <name>hAT-like transposase, RNase-H fold</name>
+    <p>
+      This domain is found as part of an RNase-H fold section in a number of hAT-like transposases, such as protein DAYSLEEPER (At3g42170) from Arabidopsis [
+      ]. Protein DAYSLEEPER is essential for plant development and can also regulate global gene expression [
+      ]. This entry also includes some uncharacterised fungal proteins. 
+      <category>molecular_function</category>
+      <description>DNA binding</description>
+<interpro id="IPR025558" protein_count="21885" short_name="DUF4283" type="Domain">
+  <name>Domain of unknown function DUF4283</name>
+<interpro id="IPR025559" protein_count="11515" short_name="Eis_dom" type="Domain">
+  <name>Enhanced intracellular survival protein domain</name>
+    
+
+
+    <p>
+<interpro id="IPR025836" protein_count="7040" short_name="Zn_knuckle_CX2CX4HX4C" type="Domain">
+  <name>Zinc knuckle CX2CX4HX4C</name>
+<interpro id="IPR025837" protein_count="976" short_name="CFTR_reg_dom" type="Domain">
+  <name>CFTR regulator domain</name>
+    <p>
+      Cystic fibrosis transmembrane conductance regulator (CFTR) that belongs to
+the ATP-binding cassette (ABC) transporter superfamily. It is a member of 
+the ABC-C subfamily, which also contains the SUR receptors and the multidrug-
+<interpro id="IPR026992" protein_count="67210" short_name="DIOX_N" type="Domain">
+  <name>Non-haem dioxygenase N-terminal domain</name>
+    <p>
+      This is the highly conserved N-terminal region of proteins with 2-oxoglutarate/Fe(II)-dependent dioxygenase activity [
+      ].
+<interpro id="IPR026995" protein_count="2221" short_name="Astrotactin" type="Family">
+  <name>Astrotactin</name>
+    <p>
+<interpro id="IPR027356" protein_count="10373" short_name="NPH3_dom" type="Domain">
+  <name>NPH3 domain</name>
+    <p>
+      The NRL (for NPH3/RPT2-Like) family is formed by signaling molecules specific
+to higher plants. Several regions of sequence and predicted structural
+conservation define members of the NRL family, with three domains being most
+notable: an N-terminal BTB domain, a centrally located NPH3
+domain, and a C-terminal coiled coil domain. The function of the NPH3 domain
+<interpro id="IPR027409" protein_count="123331" short_name="GroEL-like_apical_dom_sf" type="Homologous_superfamily">
+  <name>GroEL-like apical domain superfamily</name>
+    <p>
+      Chaperonins are large cylindrical structures that transiently enclose a partially folded polypeptide and allow it to continue folding in a sequestered environment. Chaperonins are grouped into two families: group I chaperonins, found in eubacteria (e.g. GroEL in Escherichia coli) and eukaryotic organelles of eubacterial descent (e.g. Cpn60 in mitochondria and chloroplasts), and group II chaperonins, found in archaea and the eukaryotic cytosol (CCT or TCP-1 complex) [
+      , 
+      ]. Both groups share a common monomer architecture of three domains: an equatorial domain that carries ATPase activity, an intermediate domain, and an apical domain, involved in substrate binding [
+      , 
+      ].
+<interpro id="IPR027410" protein_count="118653" short_name="TCP-1-like_intermed_sf" type="Homologous_superfamily">
+  <name>TCP-1-like chaperonin intermediate domain superfamily</name>
+    <p>
+      Chaperonins are large cylindrical structures that transiently enclose a partially folded polypeptide and allow it to continue folding in a sequestered environment. Chaperonins are grouped into two families: group I chaperonins, found in eubacteria (e.g. GroEL in Escherichia coli) and eukaryotic organelles of eubacterial descent (e.g. Cpn60 in mitochondria and chloroplasts), and group II chaperonins, found in archaea and the eukaryotic cytosol (CCT or TCP-1 complex) [
+      , 
+      ]. Both groups share a common monomer architecture of three domains: an equatorial domain that carries ATPase activity, an intermediate domain, and an apical domain, involved in substrate binding [
+      , 
+      ].
+<interpro id="IPR027413" protein_count="126146" short_name="GROEL-like_equatorial_sf" type="Homologous_superfamily">
+  <name>GroEL-like equatorial domain superfamily</name>
+    <p>
+      Chaperonins are large cylindrical structures that transiently enclose a partially folded polypeptide and allow it to continue folding in a sequestered environment. Chaperonins are grouped into two families: group I chaperonins, found in eubacteria (e.g. GroEL in Escherichia coli) and eukaryotic organelles
+of eubacterial descent (e.g. Cpn60 in mitochondria and chloroplasts), and group II chaperonins, found in archaea and the eukaryotic cytosol (CCT or TCP-1 complex) [
+      , 
+      ]. Both groups share a common monomer architecture of three domains: an equatorial domain that carries ATPase activity, an intermediate domain, and an apical domain, involved in substrate binding [
+      , 
+<interpro id="IPR027443" protein_count="102971" short_name="IPNS-like_sf" type="Homologous_superfamily">
+  <name>Isopenicillin N synthase-like superfamily</name>
+    <p>
+      Isopenicillin N synthase (IPNS) catalyses conversion of the linear tripeptide delta-(L-alpha-aminoadipoyl)-L-cysteinyl-D-valine (ACV) to isopenicillin N (IPN), the central step in biosynthesis of the beta-lactam antibiotics [
+      ]. IPNS is a nonhaem-Fe2+-dependent enzyme. It belongs to a class of nonhaem Fe2+-containing enzymes which includes 2-oxoglutarate-dependent dioxygenases, 2-oxoglutarate-dependent hydroxy- lases, and enzymes involved in ethylene formation and anthocyaninidin biosynthesis.
+    
+
+
+<interpro id="IPR027640" protein_count="58990" short_name="Kinesin-like_fam" type="Family">
+  <name>Kinesin-like protein</name>
+    <p>
+      Kinesin [
+      , 
+      , 
+      ] is a microtubule-associated force-producing protein that play a role in organelle transport. The kinesin motor activity is directed toward the microtubule's plus end. Kinesin is an oligomeric complex composed of two heavy chains and two light chains. The maintenance of the quaternary structure does not require interchain disulphide bonds.
+    
+<interpro id="IPR027806" protein_count="35927" short_name="HARBI1_dom" type="Domain">
+  <name>Harbinger transposase-derived nuclease domain</name>
+    <p>
+      This domain is found in proteins that are related to  
+       and are probably endonucleases of the DDE superfamily. Proteins containing this domain include the putative nuclease HARBI1. HARBI1 is a transposase-derived protein that may have nuclease activity potential. It does not have transposase activity [
+      , 
+      ].
+<interpro id="IPR027809" protein_count="137" short_name="Anaphtx_C5AR2" type="Family">
+<interpro id="IPR029044" protein_count="1380672" short_name="Nucleotide-diphossugar_trans" type="Homologous_superfamily">
+  <name>Nucleotide-diphospho-sugar transferases</name>
+    <p>
+      The biosynthesis of disaccharides, oligosaccharides and polysaccharides involves the action of hundreds of different glycosyltransferases. These enzymes catalyse the transfer of sugar moieties from activated donor molecules to specific acceptor molecules, forming glycosidic bonds. A classification of glycosyltransferases using nucleotide diphospho-sugar, nucleotide monophospho-sugar and sugar phosphates ([intenz:2.4.1.-]) and related proteins into distinct sequence based families has been described [
+      ]. This classification is available on the CAZy (CArbohydrate-Active EnZymes) web site. The same three-dimensional fold is expected to occur within each of the families. Because 3-D structures are better conserved than sequences, several of the families defined on the basis of sequence similarities may have similar 3-D structures and therefore form 'clans'.
+<interpro id="IPR029045" protein_count="801030" short_name="ClpP/crotonase-like_dom_sf" type="Homologous_superfamily">
+  <name>ClpP/crotonase-like domain superfamily</name>
+    <p>
+<interpro id="IPR029056" protein_count="376699" short_name="Ribokinase-like" type="Homologous_superfamily">
+  <name>Ribokinase-like</name>
+    <p>
+      This superfamily represents a domain found in phosphotransferases that have an alcohol group as an acceptor ([intenz:2.7.1.-]). However, 4-amino-5-hydroxymethyl-2-methylpyrimidine phosphate kinase (HMPP kinase) catalyses two phosphorylation reactions: one to a hydroxymethyl group of hydroxymethyl pyrimidine (HMP) and the second to the phosphomethyl group of HMPP [
+      ]. The common structural feature for the enzymes in this superfamily is a central eight-stranded sheet that is flanked by eight structurally conserved helices, five on one side and three on the other [
+      ]. The active site is located in a shallow groove along one edge of the sheet, with the phosphate acceptor hydroxyl group and -phosphate of ATP close together in the middle of the groove, and substrate and ATP binding at the ends [
+      ].
+<interpro id="IPR029057" protein_count="406181" short_name="PRTase-like" type="Homologous_superfamily">
+<interpro id="IPR029979" protein_count="62" short_name="XOAT1" type="Family">
+  <name>Xylan O-acetyltransferase 1</name>
+    <p>
+      Trichome birefringence-like (TBL) proteins are proposed to encode wall poly-
+saccharide specific O-acetyltransferases. This entry represents protein trichome birefringence-like 29 (TBL29), also known as XOAT1 or ESKIMO 1 (ESK1). In Arabidopsis, XOAT1 catalyzes the 2-O-acetylation of xylan, followed by nonenzymatic acetyl migration to the O-3 position, resulting in products that are monoacetylated at both O-2 and O-3 positions [
+      , 
+      ]. Its role is essential for the production of functional xylem vessels [
+      , 
+<interpro id="IPR032454" protein_count="19551" short_name="Histone_H2A_C" type="Domain">
+  <name>Histone H2A, C-terminal domain</name>
+    <p>
+      Histone H2A is a small, highly conserved nuclear protein that, together with two molecules each of histones H2B, H3 and H4, forms the eukaryotic nucleosome core [
+      ]; the nucleosome octamer winds ~146 DNA base-pairs.  In the mouse, histone H2A can be replaced by histone H2A-like 1 [
+      ].
+    
+
+<interpro id="IPR032675" protein_count="843952" short_name="LRR_dom_sf" type="Homologous_superfamily">
+  <name>Leucine-rich repeat domain superfamily</name>
+    <p>
+      This superfamily represents a leucine-rich repeat (LRR), right-handed beta-alpha superhelix domain, such as that found in bacterial invasion protein internalin [
+      ] or in the L domain from members of the epidermal growth-factor receptor (EGFR) family [
+      ].
+    
+

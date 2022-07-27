@@ -1,0 +1,6 @@
+Category1	Category2	estimate	SE	df	t.ratio	p.value
+AreNot-organelle-targeted	Mitochondria-targeted_Interacting	-102.43687461022	14.7438722034566	88014	-6.94775925867051	5.60548160899742e-11
+Dual-targeted_Non-interacting	Mitochondria-targeted_Interacting	-101.756720935086	16.6235364043774	88014	-6.12124390742095	1.30533447413433e-08
+Mitochondria-targeted_Interacting	Mitochondria-targeted_Non-interacting	101.800062705003	27.1315585973871	88014	3.75209047941709	0.00193026469659951
+Mitochondria-targeted_Interacting	Plastid-targeted_Interacting	101.6979757822	22.1957475714116	88014	4.58186756066682	5.53767599000632e-05
+Mitochondria-targeted_Interacting	Plastid-targeted_Non-interacting	101.582883759766	17.9841905893024	88014	5.64845458322663	2.11112638996859e-07

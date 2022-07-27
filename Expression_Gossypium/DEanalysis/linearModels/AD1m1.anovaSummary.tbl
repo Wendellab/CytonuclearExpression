@@ -1,0 +1,4 @@
+Effect	DFn	DFd	F	p	p<.05
+Subgenome	32.839	NA	1	1e-08	*
+Targeting	871.485	NA	5	3.95e-186	*
+Subgenome:Targeting	13.21	NA	5	0.021	*

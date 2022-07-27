@@ -1,0 +1,11 @@
+cut -f9-15 Gossypium.mergedQuartets.one-file-to-rule-them-all.txt | sed -e '/,/d' | grep "Gohir.A" | grep "Gohir.D" | cut -f1-3,5-6 | sed 's|N/A|NotApp|g' > cotton.expanded.category
+cat <(cut -f1-4 cotton.expanded.category | awk 'BEGIN{FS=OFS="\t"}{print $0,"dad"}') <(cut -f1-3,5 cotton.expanded.category | awk 'BEGIN{FS=OFS="\t"}{print $0,"mom"}') > cotton.expanded.category.longForm
+
+cut -f14-16,20,21 Chenopodium.mergedQuartets.one-file-to-rule-them-all.txt | grep "Cqui" | sed 's/Cquinoa_//g' | sed 's|N/A|NotApp|g' > chenopodium.expanded.category
+cat <(cut -f1-4 chenopodium.expanded.category | awk 'BEGIN{FS=OFS="\t"}{print $0,"dad"}') <(cut -f1-3,5 chenopodium.expanded.category | awk 'BEGIN{FS=OFS="\t"}{print $0,"mom"}') > chenopodium.expanded.category.longForm
+
+cut -f14-16,20,21 Arachis.mergedQuartets.one-file-to-rule-them-all.txt | grep arahy | sed -e 's/_/\./g' -e 's/targeted[.]/targeted_/g' -e 's|N/A|NotApp|g' > arachis.expanded.category
+cat <(cut -f1-4 arachis.expanded.category | awk 'BEGIN{FS=OFS="\t"}{print $0,"dad"}') <(cut -f1-3,5 arachis.expanded.category | awk 'BEGIN{FS=OFS="\t"}{print $0,"mom"}') > arachis.expanded.category.longForm
+
+cut -f16-18,22,23 Arabidopsis.mergedQuartets.one-file-to-rule-them-all.txt | grep "AsA" | sed 's|N/A|NotApp|g' > arabidopsis.expanded.category
+cat <(cut -f1-4 arabidopsis.expanded.category | awk 'BEGIN{FS=OFS="\t"}{print $0,"dad"}') <(cut -f1-3,5 arabidopsis.expanded.category | awk 'BEGIN{FS=OFS="\t"}{print $0,"mom"}') > arabidopsis.expanded.category.longForm

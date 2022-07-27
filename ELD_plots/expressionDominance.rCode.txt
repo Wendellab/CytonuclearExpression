@@ -1,0 +1,126 @@
+d<-read.table('expressionDominance.txt',header=T,sep='\t')
+As<-d[which(d$species=='Asuecica'),,drop=F]
+Ah<-d[which(d$species=='Ahypogaea'),,drop=F]
+Cq<-d[which(d$species=='Cquinoa'),,drop=F]
+Gb<-d[which(d$species=='Gbarbadense'),,drop=F]
+Gh<-d[which(d$species=='Ghirsutum'),,drop=F]
+
+As.not<-As[which(As$Category=='Not-organelle-targeted'),,drop=F]
+Ah.not<-Ah[which(Ah$Category=='Not-organelle-targeted'),,drop=F]
+Cq.not<-Cq[which(Cq$Category=='Not-organelle-targeted'),,drop=F]
+Gb.not<-Gb[which(Gb$Category=='Not-organelle-targeted'),,drop=F]
+Gh.not<-Gh[which(Gh$Category=='Not-organelle-targeted'),,drop=F]
+
+for(i in 1:nrow(As)){
+	my_row<-c(As[i,c("Like_Paternal","Like_Maternal")],As.not[1,c("Like_Paternal","Like_Maternal")])
+	my_matrix  <- matrix(as.numeric(my_row),2, byrow = T)
+	binomy<-binom.test(matrix(as.numeric(c(As[i,c("Like_Paternal","Like_Maternal")])),1,byrow=T))
+	As[i,"binomial.estimate"] <- binomy$estimate
+	As[i,"binomial.p.value"] <- binomy$p.value
+	fishy <- fisher.test(my_matrix)
+	As[i,"fisher.estimate"] <-fishy$estimate
+	As[i,"fisher.conf.int_LOW"] <-fishy$conf.int[1]
+	As[i,"fisher.conf.int_HI"] <-fishy$conf.int[2]
+	As[i,"fisher.p.value"] <-fishy$p.value
+	}
+
+for(i in 1:nrow(Ah)){
+	my_row<-c(Ah[i,c("Like_Paternal","Like_Maternal")],Ah.not[1,c("Like_Paternal","Like_Maternal")])
+	my_matrix  <- matrix(as.numeric(my_row),2, byrow = T)
+	binomy<-binom.test(matrix(as.numeric(c(Ah[i,c("Like_Paternal","Like_Maternal")])),1,byrow=T))
+	Ah[i,"binomial.estimate"] <- binomy$estimate
+	Ah[i,"binomial.p.value"] <- binomy$p.value
+	fishy <- fisher.test(my_matrix)
+	Ah[i,"fisher.estimate"] <-fishy$estimate
+	Ah[i,"fisher.conf.int_LOW"] <-fishy$conf.int[1]
+	Ah[i,"fisher.conf.int_HI"] <-fishy$conf.int[2]
+	Ah[i,"fisher.p.value"] <-fishy$p.value
+	}
+
+for(i in 1:nrow(Cq)){
+	my_row<-c(Cq[i,c("Like_Paternal","Like_Maternal")],Cq.not[1,c("Like_Paternal","Like_Maternal")])
+	my_matrix  <- matrix(as.numeric(my_row),2, byrow = T)
+	binomy<-binom.test(matrix(as.numeric(c(Cq[i,c("Like_Paternal","Like_Maternal")])),1,byrow=T))
+	Cq[i,"binomial.estimate"] <- binomy$estimate
+	Cq[i,"binomial.p.value"] <- binomy$p.value
+	fishy <- fisher.test(my_matrix)
+	Cq[i,"fisher.estimate"] <-fishy$estimate
+	Cq[i,"fisher.conf.int_LOW"] <-fishy$conf.int[1]
+	Cq[i,"fisher.conf.int_HI"] <-fishy$conf.int[2]
+	Cq[i,"fisher.p.value"] <-fishy$p.value
+	}
+
+for(i in 1:nrow(Gb)){
+	my_row<-c(Gb[i,c("Like_Paternal","Like_Maternal")],Gb.not[1,c("Like_Paternal","Like_Maternal")])
+	my_matrix  <- matrix(as.numeric(my_row),2, byrow = T)
+	binomy<-binom.test(matrix(as.numeric(c(Gb[i,c("Like_Paternal","Like_Maternal")])),1,byrow=T))
+	Gb[i,"binomial.estimate"] <- binomy$estimate
+	Gb[i,"binomial.p.value"] <- binomy$p.value
+	fishy <- fisher.test(my_matrix)
+	Gb[i,"fisher.estimate"] <-fishy$estimate
+	Gb[i,"fisher.conf.int_LOW"] <-fishy$conf.int[1]
+	Gb[i,"fisher.conf.int_HI"] <-fishy$conf.int[2]
+	Gb[i,"fisher.p.value"] <-fishy$p.value
+	}
+
+for(i in 1:nrow(Gh)){
+	my_row<-c(Gh[i,c("Like_Paternal","Like_Maternal")],Gh.not[1,c("Like_Paternal","Like_Maternal")])
+	my_matrix  <- matrix(as.numeric(my_row),2, byrow = T)
+	binomy<-binom.test(matrix(as.numeric(c(Gh[i,c("Like_Paternal","Like_Maternal")])),1,byrow=T))
+	Gh[i,"binomial.estimate"] <- binomy$estimate
+	Gh[i,"binomial.p.value"] <- binomy$p.value
+	fishy <- fisher.test(my_matrix)
+	Gh[i,"fisher.estimate"] <-fishy$estimate
+	Gh[i,"fisher.conf.int_LOW"] <-fishy$conf.int[1]
+	Gh[i,"fisher.conf.int_HI"] <-fishy$conf.int[2]
+	Gh[i,"fisher.p.value"] <-fishy$p.value
+	}
+
+all<-rbind(As,Ah,Cq,Gb,Gh)
+write.table(all,file='expressionDominance.stats.txt',sep='\t',row.names=F, quote=F )
+
+
+# quick transgressive tests
+AsT <- binom.test(c(232,233))
+AiT <- binom.test(c(74,72))
+AhT <- binom.test(c(349,343))
+CqT <- binom.test(c(756,917)) # biased toward transgressive up
+GhT <- binom.test(c(1219,1564)) # biased toward transgressive up
+GbT <- binom.test(c(1014,1356)) # biased toward transgressive up
+
+
+trans <- read.table("clipboard", header=T)
+write.table(trans, file="ELDtransCategories.txt", quote=F, row.names=F)
+
+trans$down <- rowSums(trans[,c(3:5)])
+trans$up <- rowSums(trans[,c(6:8)])
+
+AsT<-trans[which(trans$species=='As'),c(1,2,9,10),drop=F]
+AiT<-trans[which(trans$species=='Ai'),c(1,2,9,10),drop=F]
+AhT<-trans[which(trans$species=='Ah'),c(1,2,9,10),drop=F]
+CqT<-trans[which(trans$species=='Cq'),c(1,2,9,10),drop=F]
+GbT<-trans[which(trans$species=='Gb'),c(1,2,9,10),drop=F]
+GhT<-trans[which(trans$species=='Gh'),c(1,2,9,10),drop=F]
+
+for (h in c("AsT","AiT","AhT","CqT","GbT","GhT")) {
+	df <- get(h)
+	df.not <- df[2,3:4]
+	df <- df[-c(1:2,9:10),]
+	for(i in 1:nrow(df)){
+		mymatrix  <- as.matrix(rbind(df[i,3:4],df[2,3:4]))
+		fishy <- fisher.test(mymatrix)
+		df[i,"pvalue"] <-fishy$p.value
+		df$padj <- p.adjust(df$pvalue, method="BH")
+		assign(h,df,envir = .GlobalEnv)
+	}
+}
+
+allT<-rbind(AsT,AiT,AhT,CqT,GbT,GhT)
+write.table(allT,file='ELDtrans.stats.txt',sep='\t',row.names=F, quote=F )
+
+
+
+
+
+
+
